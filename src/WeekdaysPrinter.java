@@ -11,6 +11,7 @@ public class WeekdaysPrinter {
             if (weekdays[i]=="Friday") {
                 break;
             }
+
             System.out.println(weekdays[i]);
 
 
